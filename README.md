@@ -10,12 +10,12 @@ Introduction
 1) Choosing features and metrics for nearest neighbor search  
 2) Implementing Locality Sensitive Hashing from scratch
 ### Week3: Clustering - Grouping Related Docs
-#### Clustering text data with k-means
-#### MapReduce for scaling k-means
+1) Clustering text data with k-means
+2) MapReduce for scaling k-means
 ### Week4: Mixture Models: Model-based Clustering
-#### Implementing EM for Gaussian mixtures
-#### Clustering text data with Gaussian mixtures
+1) Implementing EM for Gaussian mixtures
+2) Clustering text data with Gaussian mixtures
 ### Week5: Latent Dirichlet Allocation: Mixed Membership Modeling
-#### Modeling text topics with Latent Dirichlet Allocation
+1) Modeling text topics with Latent Dirichlet Allocation
 ### Week6: Recap & Look ahead
-#### Modeling text data with a hierarchy of clusters
+1) Modeling text data with a hierarchy of clusters
