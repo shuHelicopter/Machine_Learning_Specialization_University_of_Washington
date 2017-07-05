@@ -5,9 +5,10 @@ Assignments for the Coursera courses 'Machine Learning Specialization'(Universit
   
 ## Clustering & Retrieval  
 ### Week1: A machine learning perspective
+Introduction  
 ### Week2: Nearest Neighbor Search - Retrieving Documents
-#### Choosing features and metrics for nearest neighbor search  
-#### Implementing Locality Sensitive Hashing from scratch
+1) Choosing features and metrics for nearest neighbor search  
+2) Implementing Locality Sensitive Hashing from scratch
 ### Week3: Clustering - Grouping Related Docs
 #### Clustering text data with k-means
 #### MapReduce for scaling k-means
