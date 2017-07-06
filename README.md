@@ -1,8 +1,14 @@
 # Machine_Learning_Specialization_University_of_Washington
-Assignments for the Coursera courses 'Machine Learning Specialization'(University of Washington).
+Assignments for the Coursera courses 'Machine Learning Specialization'(University of Washington). In those assignments, I prefer packages numpy, pandas and scikitlearn than graphlap, sframe provied by the instructors. There is slight difference in syntax between two kinds of python packages.
 
 ## Syllabus of Machine Learning Specialization  
-
+## A Case Study Approach
+1) Introduction
+2) Regression - Predicting House Prices
+3) Classification - Sentiment Anlysis
+4) Clustering and Similarity - Retrieving Documents
+5) Recommending Products (Excluded)
+6) Deep Learning - Searching for Images (Excluded)
 
 ## Regression
 ### Week1: Simple Regression - Linear Regression with one input
