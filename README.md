@@ -1,5 +1,5 @@
 # Machine_Learning_Specialization_University_of_Washington
-Assignments for the Coursera courses 'Machine Learning Specialization'(University of Washington). In those assignments, I prefer packages numpy, pandas and scikitlearn than graphlap, sframe provied by the instructors. There is slight difference in syntax between two kinds of python packages.
+My assignments for the Coursera courses 'Machine Learning Specialization'(University of Washington). In those assignments, I prefer packages numpy, pandas and scikitlearn than graphlap, sframe provied by the instructors. There is slight difference in syntax between two kinds of python packages.
 
 ## Syllabus of Machine Learning Specialization  
 ## A Case Study Approach
